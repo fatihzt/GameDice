@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\GameDice\GameDice\bin\Debug\net6.0\GameDice.exe
+C:\Users\USER\source\repos\GameDice\GameDice\bin\Debug\net6.0\GameDice.deps.json
+C:\Users\USER\source\repos\GameDice\GameDice\bin\Debug\net6.0\GameDice.runtimeconfig.json
+C:\Users\USER\source\repos\GameDice\GameDice\bin\Debug\net6.0\GameDice.dll
+C:\Users\USER\source\repos\GameDice\GameDice\bin\Debug\net6.0\GameDice.pdb
+C:\Users\USER\source\repos\GameDice\GameDice\obj\Debug\net6.0\GameDice.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\GameDice\GameDice\obj\Debug\net6.0\GameDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\GameDice\GameDice\obj\Debug\net6.0\GameDice.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GameDice\GameDice\obj\Debug\net6.0\GameDice.AssemblyInfo.cs
+C:\Users\USER\source\repos\GameDice\GameDice\obj\Debug\net6.0\GameDice.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GameDice\GameDice\obj\Debug\net6.0\GameDice.dll
+C:\Users\USER\source\repos\GameDice\GameDice\obj\Debug\net6.0\refint\GameDice.dll
+C:\Users\USER\source\repos\GameDice\GameDice\obj\Debug\net6.0\GameDice.pdb
+C:\Users\USER\source\repos\GameDice\GameDice\obj\Debug\net6.0\GameDice.genruntimeconfig.cache
+C:\Users\USER\source\repos\GameDice\GameDice\obj\Debug\net6.0\ref\GameDice.dll
